@@ -1,6 +1,13 @@
 # Kafka Demo
 
-Gerekli eğitimleri aldık; kavramları öğrendik. Sıra Demo'da 🚀🚀🚀
+Gerekli eğitimleri aldık; kavramları öğrendik. Sıra Demo'da 🚀🚀🚀 Bu demode sizlerle sırasıyla aşağıdaki süreçleri gerçekleştireceğiz. 
+
+- İhtiyacımız olan dosyaları git ile çalıştığımız sisteme çekeceğiz.
+- Docker-compose dosyasındaki bileşenleri kontrol edecek ve fonskiyonlarını detaylandıracağız
+- Bir adet broker, bir adet zookeper olacak şekilde Apache Kafka Cluster ayağa kaldıracağız.
+- Ayağa kaldırdığımız cluster özelinde CLI ile kontrollerimizi yapacağız.
+- Açık kaynak bir  UI çözümünü kurup Apache Kafka Cluster'ını ekleyeceğiz. UI  üzerinden kontrollerimizi sağlayacağız.
+- Apache Kafka veri yazıp çekerek süreci sizlerle beraber gözlemleyeceğiz. 
 
 ## Demo Repository'si
 
